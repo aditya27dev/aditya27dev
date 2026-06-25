@@ -21,7 +21,7 @@ my machine" is not a monitoring strategy. 📊
 
 Currently deep in AI engineering territory. Building RAG pipelines, real-time streaming UIs,
 and agentic workflows. Also spent time telling Claude Code exactly what it is and is not allowed
-to do — turns out AI needs boundaries too. 🤖
+to do -- turns out AI needs boundaries too. 🤖
 
 Now exploring LangGraph and MCP servers because apparently one personal AI project was not enough. ⚡
 
@@ -32,7 +32,7 @@ actually hold up when real users show up.
 
 ### What I am building right now
 
-**AI Receipt Scanner and Spending Analyser** — because I got tired of manually checking
+**AI Receipt Scanner and Spending Analyser** -- because I got tired of manually checking
 where my money went and decided the reasonable solution was to build an LLM application. 🧾💸
 
 I use it every day. It scans receipts and bank statements, runs them through a RAG pipeline,
