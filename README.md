@@ -32,9 +32,11 @@ actually hold up when real users show up.
 
 ### What I am building right now
 
-**AI Receipt Scanner and Spending Analyser**
-An end-to-end LLM application with multimodal document processing, a RAG pipeline,
-semantic search, and a real-time streaming UI.
+**AI Receipt Scanner and Spending Analyser** — because I got tired of manually checking
+where my money went and decided the reasonable solution was to build an LLM application. 🧾💸
+
+I use it every day. It scans receipts and bank statements, runs them through a RAG pipeline,
+and tells me I spend too much on coffee with the confidence of a financial advisor.
 
 - Live: [ai-receipt-reader.vercel.app](https://ai-receipt-reader.vercel.app)
 - Stack: Next.js · Python · Claude · OpenAI · ChromaDB · Vercel
